@@ -15,7 +15,6 @@
 
 ## Inspiration
 * Principles by Ray Dalio
-![Principles](/images/principles_raydalio.jpg)
 * [Ray Dalio Breaks Down His Holy Grail](https://www.youtube.com/watch?v=Nu4lHaSh7D4)
 * [YT Tutorial: Calculating the Correlations Between Stocks Using Python by Kevin Mooney](https://www.youtube.com/watch?v=Oa7br3Okxac)
 

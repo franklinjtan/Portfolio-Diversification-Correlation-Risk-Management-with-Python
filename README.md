@@ -14,6 +14,7 @@
 ![Heatmap of Portfolio](/images/portfolio_heatmap.png)
 
 ## Inspiration
+* David Ng, Professor of Finance, Cornell University - Taught my Finance Analytics Class
 * Principles by Ray Dalio
 * [Ray Dalio Breaks Down His Holy Grail](https://www.youtube.com/watch?v=Nu4lHaSh7D4)
 * [YT Tutorial: Calculating the Correlations Between Stocks Using Python by Kevin Mooney](https://www.youtube.com/watch?v=Oa7br3Okxac)

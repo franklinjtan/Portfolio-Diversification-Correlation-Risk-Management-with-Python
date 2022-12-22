@@ -11,7 +11,7 @@
 
 ## Screenshot of Maxtrix and heatmap Generated
 ![Correlation Matrix](/images/correlation_matrix.png)
-![Heatmap of Portfolio](/images/portfolio_heatmap.png)
+![Heatmap of Portfolio](/images/heatmap.png)
 
 ## Inspiration
 * David Ng, Professor of Finance, Cornell University - Taught my Finance Analytics Class
